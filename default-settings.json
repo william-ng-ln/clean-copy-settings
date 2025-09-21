@@ -1,5 +1,5 @@
 {
-  "markdown": true,
+  "markdown": false,
   "domains": {
     "vnexpress.net": {
       "include": "article",
