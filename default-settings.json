@@ -11,7 +11,7 @@
     },
     "bloomberg.com": {
       "include": ".BasicContent_content__ZLDUC",
-      "exclude": ""
+      "exclude": ".inlineNewsletter_inline-newsletter-middle__3P_Ek.inline-newsletter-middle"
     }
   }
 }
