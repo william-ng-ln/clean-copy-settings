@@ -12,6 +12,10 @@
     "bloomberg.com": {
       "include": ".BasicContent_content__ZLDUC",
       "exclude": ".inlineNewsletter_inline-newsletter-middle__3P_Ek.inline-newsletter-middle"
+    },
+    "nikkei.com": {
+      "include": "article",
+      "exclude": "div[data-rn-inview-track=\"related-company\"], k-ai-recommended-articles, div[data-rn-inview-track=\"related-keyword\"], div[data-rn-inview-track=\"analogous-article-card\"],k-action-bar,div[data-k2-component-name=\"k2-ask-nikkei\"],div[data-rn-inview-track=\"article-link\"]"
     }
   }
 }
